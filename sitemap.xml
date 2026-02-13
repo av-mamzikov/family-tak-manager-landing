@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://choreheroes.ru/</loc>
+        <lastmod>2026-02-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Изображения для индексации -->
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/hero.png</image:loc>
+            <image:title>ChoreHeroes - семейный бот для мотивации детей</image:title>
+            <image:caption>Telegram-бот для семьи с виртуальным питомцем</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/pet_mood.png</image:loc>
+            <image:title>Виртуальный питомец с индикатором настроения</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/self_development.png</image:loc>
+            <image:title>Спот саморазвития для детей</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/table_vs_pet.png</image:loc>
+            <image:title>Сравнение таблицы обязанностей и виртуального питомца</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/onboarding.png</image:loc>
+            <image:title>Онбординг в Telegram боте ChoreHeroes</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://choreheroes.ru/images/family_final.png</image:loc>
+            <image:title>Счастливая семья использует ChoreHeroes</image:title>
+        </image:image>
+        
+    </url>
+</urlset>
